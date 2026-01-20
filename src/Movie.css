@@ -1,0 +1,10 @@
+.b {
+  background-image: url('./images/zgeTuV.jpg'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+.mm{
+  border-radius: 28px;
+}
